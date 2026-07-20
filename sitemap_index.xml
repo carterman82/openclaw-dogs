@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.reggaefancast.com/openclaw-dogs/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://kennelside.reggaefancast.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/post-sitemap.xml</loc>
-		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
+		<loc>https://kennelside.reggaefancast.com/post-sitemap.xml</loc>
+		<lastmod>2026-07-20T22:03:40+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/page-sitemap.xml</loc>
+		<loc>https://kennelside.reggaefancast.com/page-sitemap.xml</loc>
 		<lastmod>2026-07-13T23:12:14+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/category-sitemap.xml</loc>
-		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
+		<loc>https://kennelside.reggaefancast.com/category-sitemap.xml</loc>
+		<lastmod>2026-07-20T22:03:40+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/post_tag-sitemap.xml</loc>
-		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
+		<loc>https://kennelside.reggaefancast.com/post_tag-sitemap.xml</loc>
+		<lastmod>2026-07-20T22:03:40+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/author-sitemap.xml</loc>
+		<loc>https://kennelside.reggaefancast.com/author-sitemap.xml</loc>
 		<lastmod>2026-07-01T20:06:33+00:00</lastmod>
 	</sitemap>
 </sitemapindex>

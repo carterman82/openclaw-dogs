@@ -1,147 +1,215 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.reggaefancast.com/openclaw-dogs/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://kennelside.reggaefancast.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/bacteria/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/adoption-process/</loc>
+		<lastmod>2026-07-20T19:00:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://kennelside.reggaefancast.com/tag/african-dogs/</loc>
+		<lastmod>2026-07-20T00:45:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://kennelside.reggaefancast.com/tag/alaska/</loc>
+		<lastmod>2026-07-20T14:14:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://kennelside.reggaefancast.com/tag/bacteria/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/behavior/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/balto/</loc>
+		<lastmod>2026-07-20T14:14:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://kennelside.reggaefancast.com/tag/basenji/</loc>
+		<lastmod>2026-07-20T00:45:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://kennelside.reggaefancast.com/tag/behavior/</loc>
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/breed-anatomy/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/behavior-myths/</loc>
+		<lastmod>2026-07-20T19:00:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://kennelside.reggaefancast.com/tag/breed-anatomy/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/breed-history/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/breed-history/</loc>
+		<lastmod>2026-07-20T00:45:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://kennelside.reggaefancast.com/tag/counter-conditioning/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/counter-conditioning/</loc>
-		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/dcm/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/dcm/</loc>
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/dog-behavior-2/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/decision-tree/</loc>
+		<lastmod>2026-07-20T22:03:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://kennelside.reggaefancast.com/tag/dog-behavior-2/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/dog-licking/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/dog-licking/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/dog-behavior/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/dog-suppression/</loc>
+		<lastmod>2026-07-20T19:00:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://kennelside.reggaefancast.com/tag/dog-behavior/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/dog-nutrition/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/dog-nutrition/</loc>
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/double-coat/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/double-coat/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/double-coat-2/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/double-coat-2/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/face-licking/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/face-licking/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/grain-free/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/grain-free/</loc>
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/grooming/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/grooming/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/grooming-tools/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/grooming-tools/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/heart-disease/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/heart-disease/</loc>
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/icelandic-sheepdog/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/hunting/</loc>
+		<lastmod>2026-07-20T00:45:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://kennelside.reggaefancast.com/tag/icelandic-sheepdog/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/norwegian-lundehund/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/nome/</loc>
+		<lastmod>2026-07-20T14:14:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://kennelside.reggaefancast.com/tag/norwegian-lundehund/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/nutrition/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/nutrition/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/puffin-hunting/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/operant-conditioning/</loc>
+		<lastmod>2026-07-20T22:03:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://kennelside.reggaefancast.com/tag/positive-reinforcement/</loc>
+		<lastmod>2026-07-20T22:03:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://kennelside.reggaefancast.com/tag/puffin-hunting/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/puppy-development/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/puppy-development/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/raw-food/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/raw-food/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/recall/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/recall/</loc>
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/rescue/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/rescue/</loc>
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/resource-guarding/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/resource-guarding/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/safety/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/safety/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/seasonal-molt/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/seasonal-molt/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/shedding/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/serum-run/</loc>
+		<lastmod>2026-07-20T14:14:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://kennelside.reggaefancast.com/tag/shedding/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/six-toes/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/shelter-adoption/</loc>
+		<lastmod>2026-07-20T19:00:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://kennelside.reggaefancast.com/tag/shelter-screening/</loc>
+		<lastmod>2026-07-20T19:00:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://kennelside.reggaefancast.com/tag/six-toes/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/social-signaling/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/social-signaling/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/taurine/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/stubborn-dogs/</loc>
+		<lastmod>2026-07-20T22:03:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://kennelside.reggaefancast.com/tag/taurine/</loc>
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/training/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/togo/</loc>
+		<lastmod>2026-07-20T14:14:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://kennelside.reggaefancast.com/tag/training/</loc>
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/undercoat/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/undercoat/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/viking-dogs/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/viking-dogs/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.reggaefancast.com/openclaw-dogs/tag/working-dogs/</loc>
+		<loc>https://kennelside.reggaefancast.com/tag/working-dogs/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 </urlset>
