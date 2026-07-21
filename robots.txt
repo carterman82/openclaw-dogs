@@ -3,6 +3,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kennelside.reggaefancast.com/sitemap_index.xml
+Sitemap: https://dogs.info-verse.org/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK

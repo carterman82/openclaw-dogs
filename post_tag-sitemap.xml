@@ -1,215 +1,231 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://kennelside.reggaefancast.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://dogs.info-verse.org/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/adoption-process/</loc>
+		<loc>https://dogs.info-verse.org/tag/adoption-process/</loc>
 		<lastmod>2026-07-20T19:00:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/african-dogs/</loc>
+		<loc>https://dogs.info-verse.org/tag/african-dogs/</loc>
 		<lastmod>2026-07-20T00:45:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/alaska/</loc>
+		<loc>https://dogs.info-verse.org/tag/alaska/</loc>
 		<lastmod>2026-07-20T14:14:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/bacteria/</loc>
+		<loc>https://dogs.info-verse.org/tag/anxiety/</loc>
+		<lastmod>2026-07-21T13:28:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/bacteria/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/balto/</loc>
+		<loc>https://dogs.info-verse.org/tag/balto/</loc>
 		<lastmod>2026-07-20T14:14:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/basenji/</loc>
+		<loc>https://dogs.info-verse.org/tag/basenji/</loc>
 		<lastmod>2026-07-20T00:45:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/behavior/</loc>
-		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
+		<loc>https://dogs.info-verse.org/tag/behavior/</loc>
+		<lastmod>2026-07-21T13:28:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/behavior-myths/</loc>
+		<loc>https://dogs.info-verse.org/tag/behavior-myths/</loc>
 		<lastmod>2026-07-20T19:00:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/breed-anatomy/</loc>
+		<loc>https://dogs.info-verse.org/tag/breed-anatomy/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/breed-history/</loc>
+		<loc>https://dogs.info-verse.org/tag/breed-history/</loc>
 		<lastmod>2026-07-20T00:45:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/counter-conditioning/</loc>
+		<loc>https://dogs.info-verse.org/tag/counter-conditioning/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/dcm/</loc>
+		<loc>https://dogs.info-verse.org/tag/dcm/</loc>
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/decision-tree/</loc>
+		<loc>https://dogs.info-verse.org/tag/decision-tree/</loc>
 		<lastmod>2026-07-20T22:03:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/dog-behavior-2/</loc>
+		<loc>https://dogs.info-verse.org/tag/dog-behavior-2/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/dog-licking/</loc>
+		<loc>https://dogs.info-verse.org/tag/dog-licking/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/dog-suppression/</loc>
+		<loc>https://dogs.info-verse.org/tag/dog-suppression/</loc>
 		<lastmod>2026-07-20T19:00:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/dog-behavior/</loc>
+		<loc>https://dogs.info-verse.org/tag/dog-behavior/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/dog-nutrition/</loc>
+		<loc>https://dogs.info-verse.org/tag/dog-nutrition/</loc>
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/double-coat/</loc>
+		<loc>https://dogs.info-verse.org/tag/double-coat/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/double-coat-2/</loc>
+		<loc>https://dogs.info-verse.org/tag/double-coat-2/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/face-licking/</loc>
+		<loc>https://dogs.info-verse.org/tag/face-licking/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/grain-free/</loc>
+		<loc>https://dogs.info-verse.org/tag/grain-free/</loc>
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/grooming/</loc>
+		<loc>https://dogs.info-verse.org/tag/grooming/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/grooming-tools/</loc>
+		<loc>https://dogs.info-verse.org/tag/grooming-tools/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/heart-disease/</loc>
+		<loc>https://dogs.info-verse.org/tag/heart-disease/</loc>
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/hunting/</loc>
+		<loc>https://dogs.info-verse.org/tag/hunting/</loc>
 		<lastmod>2026-07-20T00:45:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/icelandic-sheepdog/</loc>
+		<loc>https://dogs.info-verse.org/tag/icelandic-sheepdog/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/nome/</loc>
+		<loc>https://dogs.info-verse.org/tag/nome/</loc>
 		<lastmod>2026-07-20T14:14:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/norwegian-lundehund/</loc>
+		<loc>https://dogs.info-verse.org/tag/norwegian-lundehund/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/nutrition/</loc>
+		<loc>https://dogs.info-verse.org/tag/nutrition/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/operant-conditioning/</loc>
+		<loc>https://dogs.info-verse.org/tag/operant-conditioning/</loc>
 		<lastmod>2026-07-20T22:03:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/positive-reinforcement/</loc>
+		<loc>https://dogs.info-verse.org/tag/positive-reinforcement/</loc>
 		<lastmod>2026-07-20T22:03:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/puffin-hunting/</loc>
+		<loc>https://dogs.info-verse.org/tag/puffin-hunting/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/puppy-development/</loc>
+		<loc>https://dogs.info-verse.org/tag/puppy-development/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/raw-food/</loc>
+		<loc>https://dogs.info-verse.org/tag/raw-food/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/recall/</loc>
+		<loc>https://dogs.info-verse.org/tag/recall/</loc>
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/rescue/</loc>
+		<loc>https://dogs.info-verse.org/tag/refusal/</loc>
+		<lastmod>2026-07-21T13:28:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/rescue/</loc>
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/resource-guarding/</loc>
+		<loc>https://dogs.info-verse.org/tag/resource-guarding/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/safety/</loc>
+		<loc>https://dogs.info-verse.org/tag/safety/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/seasonal-molt/</loc>
+		<loc>https://dogs.info-verse.org/tag/seasonal-molt/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/serum-run/</loc>
+		<loc>https://dogs.info-verse.org/tag/serum-run/</loc>
 		<lastmod>2026-07-20T14:14:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/shedding/</loc>
+		<loc>https://dogs.info-verse.org/tag/shedding/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/shelter-adoption/</loc>
+		<loc>https://dogs.info-verse.org/tag/shelter-adoption/</loc>
 		<lastmod>2026-07-20T19:00:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/shelter-screening/</loc>
+		<loc>https://dogs.info-verse.org/tag/shelter-screening/</loc>
 		<lastmod>2026-07-20T19:00:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/six-toes/</loc>
+		<loc>https://dogs.info-verse.org/tag/six-toes/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/social-signaling/</loc>
+		<loc>https://dogs.info-verse.org/tag/social-signaling/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/stubborn-dogs/</loc>
+		<loc>https://dogs.info-verse.org/tag/stubborn-dogs/</loc>
 		<lastmod>2026-07-20T22:03:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/taurine/</loc>
+		<loc>https://dogs.info-verse.org/tag/taurine/</loc>
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/togo/</loc>
+		<loc>https://dogs.info-verse.org/tag/threshold/</loc>
+		<lastmod>2026-07-21T13:28:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/togo/</loc>
 		<lastmod>2026-07-20T14:14:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/training/</loc>
+		<loc>https://dogs.info-verse.org/tag/training/</loc>
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/undercoat/</loc>
+		<loc>https://dogs.info-verse.org/tag/undercoat/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/viking-dogs/</loc>
+		<loc>https://dogs.info-verse.org/tag/viking-dogs/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://kennelside.reggaefancast.com/tag/working-dogs/</loc>
+		<loc>https://dogs.info-verse.org/tag/walking/</loc>
+		<lastmod>2026-07-21T13:28:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/working-dogs/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 </urlset>
