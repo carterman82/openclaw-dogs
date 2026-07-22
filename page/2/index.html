@@ -5,7 +5,14 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
-	
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-EMJRNCZR10"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-EMJRNCZR10');
+</script>
+    
 	<!-- This site is optimized with the Yoast SEO plugin v24.6 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Dog Info Verse - Page 2 of 2 - Real writing about real dogs.</title>
 	<meta name="description" content="Kennelside explores real dogs in depth: breed history, behavior science, and health, for owners who want more than surface pet content.">
@@ -18,6 +25,9 @@
 	<meta property="og:url" content="https://dogs.info-verse.org/">
 	<meta property="og:site_name" content="Dog Info Verse">
 	<meta property="og:image" content="https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/07/dogs-homepage-og.png">
+	<meta property="og:image:width" content="1024">
+	<meta property="og:image:height" content="576">
+	<meta property="og:image:type" content="image/png">
 	<meta name="twitter:card" content="summary_large_image">
 	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://dogs.info-verse.org/","url":"https://dogs.info-verse.org/page/2/","name":"Dog Info Verse - Page 2 of 2 - Real writing about real dogs.","isPartOf":{"@id":"https://dogs.info-verse.org/#website"},"description":"Kennelside explores real dogs in depth: breed history, behavior science, and health, for owners who want more than surface pet content.","breadcrumb":{"@id":"https://dogs.info-verse.org/page/2/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://dogs.info-verse.org/page/2/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://dogs.info-verse.org/#website","url":"https://dogs.info-verse.org/","name":"Dog Info Verse","description":"Real writing about real dogs.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://dogs.info-verse.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
 	<!-- / Yoast SEO plugin. -->
@@ -173,7 +183,10 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
             margin: 0;
             display: flex;
             flex-wrap: wrap;
-            gap: 32px;
+            column-gap: 32px;
+            row-gap: 0;
+            max-height: 92px;
+            overflow: hidden;
         }
         .openclaw-category-nav .wp-block-categories li a {
             color: var(--wp--preset--color--openclaw-text);
@@ -182,8 +195,10 @@ ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:
             font-weight: 500;
             text-transform: uppercase;
             letter-spacing: 0.05em;
+            line-height: 16px;
             padding: 14px 0;
             display: inline-block;
+            white-space: nowrap;
         }
         .openclaw-category-nav .wp-block-categories li a:hover {
             color: var(--wp--preset--color--openclaw-primary);
