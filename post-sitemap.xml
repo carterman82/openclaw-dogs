@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://dogs.info-verse.org/</loc>
-		<lastmod>2026-07-21T21:37:02+00:00</lastmod>
+		<lastmod>2026-07-22T01:00:45+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/2026/07/16/norwegian-lundehund-six-toes-puffin-hunting-anatomy/</loc>
@@ -100,6 +100,13 @@
 		<lastmod>2026-07-21T21:37:02+00:00</lastmod>
 		<image:image>
 			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/07/dog-aggression-learned-helplessness-loop-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/2026/07/22/double-coat-shedding-reset-protocol/</loc>
+		<lastmod>2026-07-22T01:00:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/07/double-coat-shedding-reset-protocol-featured.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
