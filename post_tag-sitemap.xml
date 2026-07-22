@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://dogs.info-verse.org/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://dogs.info-verse.org/tag/adoption/</loc>
+		<lastmod>2026-07-22T19:15:59+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://dogs.info-verse.org/tag/adoption-process/</loc>
 		<lastmod>2026-07-20T19:00:16+00:00</lastmod>
 	</url>
@@ -34,7 +38,7 @@
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/behavior/</loc>
-		<lastmod>2026-07-21T13:28:17+00:00</lastmod>
+		<lastmod>2026-07-22T19:15:59+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/behavior-myths/</loc>
@@ -99,6 +103,10 @@
 	<url>
 		<loc>https://dogs.info-verse.org/tag/face-licking/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/fear/</loc>
+		<lastmod>2026-07-22T19:15:59+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/grain-free/</loc>
@@ -205,6 +213,10 @@
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://dogs.info-verse.org/tag/shelter/</loc>
+		<lastmod>2026-07-22T19:15:59+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://dogs.info-verse.org/tag/shelter-adoption/</loc>
 		<lastmod>2026-07-20T19:00:16+00:00</lastmod>
 	</url>
@@ -223,6 +235,10 @@
 	<url>
 		<loc>https://dogs.info-verse.org/tag/stubborn-dogs/</loc>
 		<lastmod>2026-07-20T22:03:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/suppression/</loc>
+		<lastmod>2026-07-22T19:15:59+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/taurine/</loc>
