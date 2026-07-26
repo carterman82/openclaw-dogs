@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://dogs.info-verse.org/</loc>
-		<lastmod>2026-07-23T01:10:45+00:00</lastmod>
+		<lastmod>2026-07-26T01:01:07+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/2026/07/16/norwegian-lundehund-six-toes-puffin-hunting-anatomy/</loc>
@@ -121,6 +121,48 @@
 		<lastmod>2026-07-23T01:10:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/07/togo-sled-dog-serum-run-history-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/2026/07/24/shaving-myth-double-coated-dogs-overheat/</loc>
+		<lastmod>2026-07-24T00:57:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/07/shaving-myth-double-coated-dogs-overheat-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/2026/07/24/why-dogs-eat-bones-fractured-esophagi-study/</loc>
+		<lastmod>2026-07-24T19:11:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/07/why-dogs-eat-bones-fractured-esophagi-study-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/2026/07/25/dog-titer-test-vaccination-schedule/</loc>
+		<lastmod>2026-07-25T00:59:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/07/dog-titer-test-vaccination-schedule-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/2026/07/25/dog-diet-not-balanced-poisonous/</loc>
+		<lastmod>2026-07-25T13:55:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/07/dog-diet-not-balanced-poisonous-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/2026/07/25/dog-startle-reflex-sound-sensitivity/</loc>
+		<lastmod>2026-07-25T19:00:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/07/dog-startle-reflex-sound-sensitivity-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/2026/07/26/wsava-feeding-guidelines-kibble/</loc>
+		<lastmod>2026-07-26T01:01:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/07/wsava-feeding-guidelines-kibble-featured.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
