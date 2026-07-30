@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://dogs.info-verse.org/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://dogs.info-verse.org/tag/aafco/</loc>
+		<lastmod>2026-07-29T18:18:12+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/adolescence/</loc>
+		<lastmod>2026-07-30T00:29:52+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://dogs.info-verse.org/tag/adoption/</loc>
 		<lastmod>2026-07-22T19:15:59+00:00</lastmod>
 	</url>
@@ -21,6 +29,10 @@
 		<lastmod>2026-07-20T14:14:38+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://dogs.info-verse.org/tag/anatolian-shepherd/</loc>
+		<lastmod>2026-07-27T19:00:26+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://dogs.info-verse.org/tag/anxiety/</loc>
 		<lastmod>2026-07-21T13:28:17+00:00</lastmod>
 	</url>
@@ -38,7 +50,7 @@
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/behavior/</loc>
-		<lastmod>2026-07-26T21:36:12+00:00</lastmod>
+		<lastmod>2026-07-29T00:21:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/behavior-myths/</loc>
@@ -49,6 +61,10 @@
 		<lastmod>2026-07-25T19:00:26+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://dogs.info-verse.org/tag/behavioral-needs/</loc>
+		<lastmod>2026-07-28T18:17:06+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://dogs.info-verse.org/tag/bone-safety/</loc>
 		<lastmod>2026-07-24T19:11:55+00:00</lastmod>
 	</url>
@@ -57,12 +73,28 @@
 		<lastmod>2026-07-25T00:59:31+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://dogs.info-verse.org/tag/border-collie/</loc>
+		<lastmod>2026-07-29T13:16:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/brain-health/</loc>
+		<lastmod>2026-07-27T14:01:36+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://dogs.info-verse.org/tag/breed-anatomy/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://dogs.info-verse.org/tag/breed-behavior/</loc>
+		<lastmod>2026-07-27T19:00:26+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://dogs.info-verse.org/tag/breed-history/</loc>
 		<lastmod>2026-07-20T00:45:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/canine-vocabulary/</loc>
+		<lastmod>2026-07-29T13:16:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/canine-anxiety/</loc>
@@ -73,12 +105,20 @@
 		<lastmod>2026-07-26T21:36:12+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://dogs.info-verse.org/tag/chaser/</loc>
+		<lastmod>2026-07-29T13:16:58+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://dogs.info-verse.org/tag/coat-health/</loc>
 		<lastmod>2026-07-22T01:00:45+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/cognition/</loc>
 		<lastmod>2026-07-26T21:36:12+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/cognitive-decline/</loc>
+		<lastmod>2026-07-27T14:01:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/cooperation/</loc>
@@ -90,7 +130,11 @@
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/counter-conditioning/</loc>
-		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
+		<lastmod>2026-07-29T00:21:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/critical-window/</loc>
+		<lastmod>2026-07-30T00:29:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/dcm/</loc>
@@ -110,7 +154,7 @@
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/dog-food/</loc>
-		<lastmod>2026-07-25T13:55:40+00:00</lastmod>
+		<lastmod>2026-07-29T18:18:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/dog-health/</loc>
@@ -125,6 +169,10 @@
 		<lastmod>2026-07-20T19:00:16+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://dogs.info-verse.org/tag/dog-training/</loc>
+		<lastmod>2026-07-27T19:00:26+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://dogs.info-verse.org/tag/dog-behavior/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
 	</url>
@@ -133,12 +181,16 @@
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://dogs.info-verse.org/tag/dog-training-2/</loc>
+		<lastmod>2026-07-29T00:21:17+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://dogs.info-verse.org/tag/domestication/</loc>
 		<lastmod>2026-07-27T00:57:29+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/double-coat/</loc>
-		<lastmod>2026-07-22T01:00:45+00:00</lastmod>
+		<lastmod>2026-07-28T13:17:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/double-coat-2/</loc>
@@ -153,12 +205,24 @@
 		<lastmod>2026-07-27T00:57:29+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://dogs.info-verse.org/tag/extinction/</loc>
+		<lastmod>2026-07-29T00:21:17+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://dogs.info-verse.org/tag/face-licking/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://dogs.info-verse.org/tag/fast-mapping/</loc>
+		<lastmod>2026-07-29T13:16:58+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://dogs.info-verse.org/tag/fear/</loc>
 		<lastmod>2026-07-22T19:15:59+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/fear-impact/</loc>
+		<lastmod>2026-07-30T00:29:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/feeding-guidelines/</loc>
@@ -174,7 +238,7 @@
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/grooming/</loc>
-		<lastmod>2026-07-22T01:00:45+00:00</lastmod>
+		<lastmod>2026-07-28T13:17:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/grooming-tools/</loc>
@@ -191,6 +255,10 @@
 	<url>
 		<loc>https://dogs.info-verse.org/tag/heart-disease/</loc>
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/heat-stress-2/</loc>
+		<lastmod>2026-07-28T13:17:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/heat-stress/</loc>
@@ -217,12 +285,28 @@
 		<lastmod>2026-07-25T13:55:40+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://dogs.info-verse.org/tag/john-pilley/</loc>
+		<lastmod>2026-07-29T13:16:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/kangal/</loc>
+		<lastmod>2026-07-27T19:00:26+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://dogs.info-verse.org/tag/kibble/</loc>
 		<lastmod>2026-07-26T01:01:07+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://dogs.info-verse.org/tag/label-reading/</loc>
+		<lastmod>2026-07-29T18:18:12+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://dogs.info-verse.org/tag/labels/</loc>
 		<lastmod>2026-07-25T13:55:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/last-chance/</loc>
+		<lastmod>2026-07-28T18:17:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/learned-helplessness/</loc>
@@ -231,6 +315,14 @@
 	<url>
 		<loc>https://dogs.info-verse.org/tag/leash-pulling/</loc>
 		<lastmod>2026-07-21T21:37:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/livestock-guardian/</loc>
+		<lastmod>2026-07-27T19:00:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/neurology/</loc>
+		<lastmod>2026-07-27T14:01:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/nome/</loc>
@@ -255,6 +347,10 @@
 	<url>
 		<loc>https://dogs.info-verse.org/tag/puffin-hunting/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/puppy/</loc>
+		<lastmod>2026-07-30T00:29:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/puppy-development/</loc>
@@ -297,8 +393,20 @@
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://dogs.info-verse.org/tag/sara-test/</loc>
+		<lastmod>2026-07-27T14:01:36+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://dogs.info-verse.org/tag/seasonal-molt/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/senior-dogs/</loc>
+		<lastmod>2026-07-27T14:01:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/separation-anxiety/</loc>
+		<lastmod>2026-07-29T00:21:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/seppala/</loc>
@@ -307,6 +415,10 @@
 	<url>
 		<loc>https://dogs.info-verse.org/tag/serum-run/</loc>
 		<lastmod>2026-07-23T01:10:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/shaving/</loc>
+		<lastmod>2026-07-28T13:17:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/shaving-myth/</loc>
@@ -325,6 +437,10 @@
 		<lastmod>2026-07-20T19:00:16+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://dogs.info-verse.org/tag/shelter-dogs/</loc>
+		<lastmod>2026-07-28T18:17:06+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://dogs.info-verse.org/tag/shelter-screening/</loc>
 		<lastmod>2026-07-20T19:00:16+00:00</lastmod>
 	</url>
@@ -339,6 +455,10 @@
 	<url>
 		<loc>https://dogs.info-verse.org/tag/social-signaling/</loc>
 		<lastmod>2026-07-19T21:11:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/socialization/</loc>
+		<lastmod>2026-07-30T00:29:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/sound-sensitivity/</loc>
@@ -361,6 +481,10 @@
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://dogs.info-verse.org/tag/thermal-regulation/</loc>
+		<lastmod>2026-07-28T13:17:00+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://dogs.info-verse.org/tag/thermoregulation/</loc>
 		<lastmod>2026-07-24T00:57:34+00:00</lastmod>
 	</url>
@@ -381,8 +505,16 @@
 		<lastmod>2026-07-19T21:11:28+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://dogs.info-verse.org/tag/triage/</loc>
+		<lastmod>2026-07-28T18:17:06+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://dogs.info-verse.org/tag/undercoat/</loc>
 		<lastmod>2026-07-19T21:11:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/urgent-adoption/</loc>
+		<lastmod>2026-07-28T18:17:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/vaccination/</loc>
@@ -410,7 +542,7 @@
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/wsava/</loc>
-		<lastmod>2026-07-26T01:01:07+00:00</lastmod>
+		<lastmod>2026-07-29T18:18:12+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
