@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://dogs.info-verse.org/</loc>
-		<lastmod>2026-08-09T18:19:21+00:00</lastmod>
+		<lastmod>2026-08-09T21:17:26+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/2026/07/16/norwegian-lundehund-six-toes-puffin-hunting-anatomy/</loc>
@@ -65,13 +65,6 @@
 		<lastmod>2026-07-20T00:45:26+00:00</lastmod>
 		<image:image>
 			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/07/basenji-no-bark-yodel-hunting-history-featured.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://dogs.info-verse.org/2026/07/20/1925-serum-run-nome-history/</loc>
-		<lastmod>2026-07-20T14:14:38+00:00</lastmod>
-		<image:image>
-			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/07/1925-serum-run-nome-history-featured.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -208,13 +201,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dogs.info-verse.org/2026/07/29/chaser-border-collie-canine-vocabulary/</loc>
-		<lastmod>2026-07-29T13:16:58+00:00</lastmod>
-		<image:image>
-			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/07/chaser-border-collie-canine-vocabulary-featured.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://dogs.info-verse.org/2026/07/29/aafco-vs-wsava-read-dog-food-label/</loc>
 		<lastmod>2026-07-29T18:18:12+00:00</lastmod>
 		<image:image>
@@ -348,13 +334,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://dogs.info-verse.org/2026/07/23/togo-sled-dog-serum-run-history/</loc>
-		<lastmod>2026-08-08T21:36:24+00:00</lastmod>
-		<image:image>
-			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/07/togo-sled-dog-serum-run-history-featured.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://dogs.info-verse.org/2026/08/09/crate-training-without-panic-puppies/</loc>
 		<lastmod>2026-08-09T00:25:49+00:00</lastmod>
 		<image:image>
@@ -373,6 +352,27 @@
 		<lastmod>2026-08-09T18:19:21+00:00</lastmod>
 		<image:image>
 			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/08/stop-dog-barking-territory-vs-separation-featured.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/2026/07/29/chaser-border-collie-canine-vocabulary/</loc>
+		<lastmod>2026-08-09T21:11:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/07/chaser-border-collie-canine-vocabulary-featured.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/2026/07/20/1925-serum-run-nome-history/</loc>
+		<lastmod>2026-08-09T21:13:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/07/1925-serum-run-nome-history-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/2026/07/23/togo-sled-dog-serum-run-history/</loc>
+		<lastmod>2026-08-09T21:17:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/07/togo-sled-dog-serum-run-history-featured.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
