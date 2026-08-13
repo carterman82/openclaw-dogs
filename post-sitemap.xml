@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://dogs.info-verse.org/</loc>
-		<lastmod>2026-08-12T23:25:34+00:00</lastmod>
+		<lastmod>2026-08-13T18:34:20+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/2026/07/16/norwegian-lundehund-six-toes-puffin-hunting-anatomy/</loc>
@@ -387,6 +387,27 @@
 		<lastmod>2026-08-12T23:25:34+00:00</lastmod>
 		<image:image>
 			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/07/togo-sled-dog-serum-run-history-featured.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/2026/08/13/puppy-biting-not-aggression-bite-inhibition-protocol/</loc>
+		<lastmod>2026-08-13T00:23:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/08/puppy-biting-not-aggression-bite-inhibition-protocol-featured.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/2026/08/13/how-much-exercise-dog-need-30-minute-threshold/</loc>
+		<lastmod>2026-08-13T13:23:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/08/how-much-exercise-dog-need-30-minute-threshold-featured.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/2026/08/13/breed-quiz-prey-drive-filter-cats/</loc>
+		<lastmod>2026-08-13T18:34:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://dogs.info-verse.org/wp-content/uploads/sites/3/2026/08/breed-quiz-prey-drive-filter-cats-featured.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
