@@ -14,7 +14,7 @@
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/adoption/</loc>
-		<lastmod>2026-08-06T00:31:01+00:00</lastmod>
+		<lastmod>2026-08-14T13:21:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/adoption-process/</loc>
@@ -521,6 +521,10 @@
 		<lastmod>2026-08-09T13:19:52+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://dogs.info-verse.org/tag/medical-care/</loc>
+		<lastmod>2026-08-14T13:21:54+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://dogs.info-verse.org/tag/metacommunication/</loc>
 		<lastmod>2026-08-07T00:35:38+00:00</lastmod>
 	</url>
@@ -753,6 +757,10 @@
 		<lastmod>2026-07-28T18:17:06+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://dogs.info-verse.org/tag/shelter-medicine/</loc>
+		<lastmod>2026-08-14T13:21:54+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://dogs.info-verse.org/tag/shelter-screening/</loc>
 		<lastmod>2026-07-20T19:00:16+00:00</lastmod>
 	</url>
@@ -854,7 +862,7 @@
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/triage/</loc>
-		<lastmod>2026-07-28T18:17:06+00:00</lastmod>
+		<lastmod>2026-08-14T13:21:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/undercoat/</loc>
@@ -863,6 +871,10 @@
 	<url>
 		<loc>https://dogs.info-verse.org/tag/urgent-adoption/</loc>
 		<lastmod>2026-07-28T18:17:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://dogs.info-verse.org/tag/urgent-status/</loc>
+		<lastmod>2026-08-14T13:21:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://dogs.info-verse.org/tag/vaccination/</loc>
